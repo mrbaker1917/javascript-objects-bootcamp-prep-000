@@ -1,0 +1,1 @@
+var playlist = {Hendrix: "Foxy Lady", Clapton: "Leila"};
